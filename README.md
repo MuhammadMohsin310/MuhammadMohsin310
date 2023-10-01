@@ -9,7 +9,7 @@
 
 - 🌱 Flutter Enthusiast
 
-- 🎓 Graduated from 'BanoQabil Training Center' in Flutter Application development.
+- 🎓 Graduated from 'BanoQabil Training Program' in Flutter Application development.
 
 - 📧 **itechmohsin310@gmail.com**
 
