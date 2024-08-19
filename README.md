@@ -17,7 +17,7 @@
 
 - ✨ Let's connect and create amazing Apps together.
 
-- ⚡ Fun fact **Snooker Player 🎱**
+- ⚡ **Snooker Player 🎱**
 
 <h3 align="left">Connect with me: ✌️</h3>
 <p align="left">
